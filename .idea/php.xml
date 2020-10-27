@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PhpIncludePathManager">
+    <include_path>
+      <path value="$PROJECT_DIR$/portfolio/vendor/composer" />
+      <path value="$PROJECT_DIR$/portfolio/vendor/slim/slim" />
+      <path value="$PROJECT_DIR$/portfolio/vendor/pimple/pimple" />
+      <path value="$PROJECT_DIR$/portfolio/vendor/psr/http-message" />
+      <path value="$PROJECT_DIR$/portfolio/vendor/nikic/fast-route" />
+      <path value="$PROJECT_DIR$/portfolio/vendor/psr/container" />
+    </include_path>
+  </component>
+  <component name="PhpUnit">
+    <phpunit_settings>
+      <PhpUnitSettings custom_loader_path="$PROJECT_DIR$/portfolio/vendor/autoload.php" />
+    </phpunit_settings>
+  </component>
+</project>
